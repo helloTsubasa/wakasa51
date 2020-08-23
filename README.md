@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there I'm wakasa51
+
+### Link
+- [Qiita](https://qiita.com/wakasa51)
+- [Blog](https://wakasa5.hatenablog.com/)
+
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=wakasa51&show_icons=true&count_private=true)
+
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=wakasa51)
 
 <!--
 **wakasa51/wakasa51** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
