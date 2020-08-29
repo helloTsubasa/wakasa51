@@ -1,5 +1,10 @@
 ### Hi there I'm wakasa51
 
+### Skill
+- Ruby / Ruby on Rails
+- TypeScript / React
+- JavaScript / jQuery
+
 ### Link
 - [Qiita](https://qiita.com/wakasa51)
 - [Blog](https://wakasa5.hatenablog.com/)
